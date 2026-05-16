@@ -76,13 +76,11 @@ The timer output is connected to XOR, AND, and NOT logic gates which process the
 ```text
 Electronic-Light-Runner/
 │
-├── report/
-├── circuit_diagrams/
-├── datasheets/
-└── README.md
+├── README.md
+├── Electronic_Light_Runner_Final_Proposal.pdf
+├── circuit_diagram.png
+├── Final report.pdf
 ```
-
----
 
 # Authors
 

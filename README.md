@@ -66,11 +66,10 @@ The timer output is connected to XOR, AND, and NOT logic gates which process the
 
 ---
 
-# Simulation and Hardware Implementation
 
-The complete circuit was first designed and verified through circuit analysis and then implemented on a breadboard using real electronic components.
+## Circuit Diagram
 
----
+![Circuit Diagram](circuit_diagram.png)
 
 # Project Structure
 
